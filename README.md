@@ -1,4 +1,4 @@
-# Python-Emotion-using-EEG-Signal
+# Python-Emotion-using-EEG-Signal(Work in progress...)
 This repository contains the code for emotion recognition using wavelet transform and svm classifiers' rbf kernel.
 
 What was used in this project: 
