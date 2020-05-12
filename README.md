@@ -27,8 +27,8 @@ Steps to perform Principal Components Analysis:
 1. Mean normalisation of features.
 2. Calculating Covariance Matrix.
 3. Calculate EigenVectors.
-4. Select k values from eigenvectors.
-After this process, we receive principal components.
+4. Get the reduced features or principal components
+After this process, we receive principal components PCs.
 
 **Classification:** 
 
