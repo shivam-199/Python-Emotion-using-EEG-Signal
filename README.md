@@ -42,4 +42,4 @@ The PCs from the previous step will be fed into the SVM classifier for output in
 3. [Support Vector Machines](https://www.coursera.org/learn/machine-learning).
 4. [Seed Dataset](http://bcmi.sjtu.edu.cn/~seed/).
 
-**Note:** Please send an email to shivamc021999@gmail.com for further queries. For code related queries, please send an email from company or educational email account, clearly stating the usage of code.
+**Note:** Please send an email to shivamc021999@gmail.com for further queries or collaborations.
