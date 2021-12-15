@@ -44,4 +44,4 @@ The PCs from the previous step will be fed into the SVM classifier for output in
 
 **Note:** Please send an email to shivamc021999@gmail.com for further queries or collaborations.
 
-**Note2:** Please refer to [this](https://bcmi.sjtu.edu.cn/~seed/downloads.html#seed-access-anchor) link.
+**Note2:** Please refer to [this](https://bcmi.sjtu.edu.cn/~seed/downloads.html#seed-access-anchor) link to get access to the dataset.
